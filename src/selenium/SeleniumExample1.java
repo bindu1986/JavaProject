@@ -5,6 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 //OPENING AN EMAIL.
+//This is my first change for Git Demo
 public class SeleniumExample1 {
 	public static void main(String[] args) {
 		WebElement userId;//global variables- all WebElements are global variables we are using in this program. 
